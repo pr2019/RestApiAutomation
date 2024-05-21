@@ -1,0 +1,19 @@
+{
+  "args": {
+    "email": "xyz@gmail.com", 
+    "name": "Pradeep", 
+    "number": "09328449023"
+  }, 
+  "headers": {
+    "Accept": "*/*", 
+    "Accept-Encoding": "gzip, deflate", 
+    "Host": "httpbin.org", 
+    "T1": "First_Header", 
+    "T2": "Second_Header", 
+    "User-Agent": "python-requests/2.31.0", 
+    "X-Amzn-Trace-Id": "Root=1-664b4c0b-7593b33d550b6e291cbff380"
+  }, 
+  "origin": "47.9.143.207", 
+  "url": "https://httpbin.org/get?name=Pradeep&email=xyz%40gmail.com&number=09328449023"
+}
+
