@@ -1,0 +1,39 @@
+{
+  "Permanent_Address": {
+    "House_Number": "1",
+    "City": "Gkp",
+    "State": "Up",
+    "Country": "India",
+    "PhoneNumber": [
+      {
+        "Std_Code": "0",
+        "Home": "0",
+        "Mobile": "3247"
+      },
+      {
+        "Std_Code": "1",
+        "Home": "1",
+        "Mobile": "3348"
+      }
+    ]
+  },
+  "Current_Address": {
+    "House_Number": "0",
+    "City": "BLR",
+    "State": "Karnataka",
+    "Country": "India",
+    "PhoneNumber": [
+      {
+        "Std_Code": "0",
+        "Home": "0",
+        "Mobile": "453"
+      },
+      {
+        "Std_Code": "1",
+        "Home": "1",
+        "Mobile": "577"
+      }
+    ]
+  },
+  "stId": "sample string 1"
+}
